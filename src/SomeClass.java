@@ -8,4 +8,8 @@ public class SomeClass {
     public void hello() {
         System.out.println("hello updog");
     }
+
+    public void partner2Method() {
+        System.out.println("horry");
+    }
 }
